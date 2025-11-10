@@ -60,7 +60,7 @@
 
 /* 个人信息Follow me按钮 */
 #aside-content>.card-widget.card-info>#card-info-btn {
-    background-color: #7019c2f8;
+    background-color: #3eb8be;
     border-radius: 8px;
 }
 
@@ -77,10 +77,4 @@
     100% {
         background-position: 0% 50%;
     }
-}
-
-/* ===== 暗夜模式适配 ===== */
-[data-theme="dark"] .card-widget {
-    background: rgba(45, 10, 61, 0.7) !important;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
 }
